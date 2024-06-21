@@ -1,5 +1,5 @@
-##### Originally written by Jack Chessa, paper online in term of this work can be found at https://www.math.purdue.edu/~caiz/math615/matlab_fem.pdf.
-##### Modified by Liskelleo, and naturally, by interest.
+##### Originally written by Jack Chessa, paper online can be found at https://www.math.purdue.edu/~caiz/math615/matlab_fem.pdf.
+##### Modified by Liskelleo, and naturally, by interest. Click 'fem-report.pdf'(in Chinese) for details of this work.
 <br />
 
 ### main program
