@@ -1,18 +1,21 @@
-##### main program
-##### ---beam.m
+##### Originally written by Jack Chessa, paper online in term of this work can be found at https://www.math.purdue.edu/~caiz/math615/matlab_fem.pdf.
+##### Modified by Liskelleo, and naturally, by interest.
+<br />
 
-##### additional files of necessity
+### main program
+##### ---beam.m
+<br />
+
+### additional files of necessity
 ##### ---square_node_array.m
 ##### ---make_elem.m
 ##### ---plot_mesh.m
 ##### ---plot_field.m
 ##### ---quadrature.m
 ##### ---lagrange_basis.m
+<br />
 
-##### Originally written by Jack Chessa, paper online in term of this work can be found at https://www.math.purdue.edu/~caiz/math615/matlab_fem.pdf.
-##### Modified by Liskelleo, and naturally, by interest.
-
-##### Updated Contents:
+### Updated Contents:
 ##### ---fix certain bugs
 ##### ---add the boundary of the top edge and the bottom edge
 ##### ---stress boundaries are given based on elasticity solution of beam
