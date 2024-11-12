@@ -1,6 +1,8 @@
 Originally written by Jack Chessa, paper online can be found at https://www.math.purdue.edu/~caiz/math615/matlab_fem.pdf.  
 
-Modified by Liskelleo, and naturally, by interest. Click `fem-report.pdf` for details of this work. Updated Contents are as follow.  
+Modified by Liskelleo, and naturally, by interest. Click `fem-report.pdf` for details of this work.  
+
+Updated Contents are as follow.  
 > ---fix certain bugs  
 > ---add the boundary of the top edge and the bottom edge  
 > ---stress boundaries are given based on elasticity solution of beam  
